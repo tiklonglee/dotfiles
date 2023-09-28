@@ -1,6 +1,6 @@
 #!/usr/bin/env zsh
 DOTFILES=$HOME/.dotfiles
-STOW_FOLDERS=(zsh vim)
+STOW_FOLDERS=(zsh vim neovim)
 cd $DOTFILES
 
 for file in ./init/*; do

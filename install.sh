@@ -4,7 +4,7 @@ if [[ -z $DOTFILES ]]; then
 fi
 
 if [[ -z $STOW_FOLDERS ]]; then
-    STOW_FOLDERS=(zsh vim)
+    STOW_FOLDERS=(zsh vim neovim)
 fi
 
 if [[ ! -d "$HOME/.oh-my-zsh" ]]; then

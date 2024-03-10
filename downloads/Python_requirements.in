@@ -1,0 +1,26 @@
+# coding environment
+jupyterlab
+
+# top three
+numpy
+pandas
+matplotlib
+
+# top three ++
+numba
+pyarrow
+scipy
+seaborn
+
+# ML top three
+statsmodels
+scikit-learn
+tensorflow
+
+# ML top three ++
+arch
+opencv-python
+
+# others
+openpyxl
+tqdm

@@ -1,0 +1,16 @@
+# coding environment
+jupyterlab
+
+# data science (main)
+numpy
+pandas
+matplotlib
+statsmodels
+scikit-learn
+tensorflow
+
+# data science (helper)
+pyarrow
+scipy
+seaborn
+openpyxl

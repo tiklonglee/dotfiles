@@ -1,0 +1,27 @@
+# C++ Stuff
+brew install gcc
+brew install llvm
+brew install cmake
+brew install ninja
+brew install cppcheck
+brew install ccache
+brew install lcov
+brew install doxygen
+brew install graphviz
+
+# Editor
+brew install vim
+brew install neovim
+brew install tmux
+
+# Web dev
+brew tap mongodb/brew
+brew install mongodb-community@7.0
+
+# Useful Stuff
+brew install stow # dotfiles
+brew install coreutils # GNU readlink
+brew install rar # unzip rar files
+brew install fd # fast find
+brew install ripgrep # fast grep
+brew install pandoc # document converter

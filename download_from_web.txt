@@ -1,0 +1,15 @@
+Editor
+    - iTerm2
+    - Visual Studio Code
+C++:
+    - Xcode
+Python:
+    - Python 3.12.0
+R:
+    - R 4.3.2
+    - RStudio
+Latex:
+    - MacTeX
+Services:
+    - docker
+    - MongoDB Compass
